@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi, I'm Tajudeen 
 
-<!--
-**sulaimonta/sulaimonta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst with skills in Python, SQL, Power BI and Excel. I enjoy analysing data, identifying trends and creating dashboards that communicate insights clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Education
+
+- BSc Computer Science
+
+##  Certifications
+
+- Google Advanced Data Analytics Professional Certificate
+- CPD Data Analytics Certificate
+
+##  Technical Skills
+
+- Python
+- SQL
+- Power BI
+- Excel
+- DAX
+- Data Cleaning
+- Data Visualisation
+- Data Analysis
+
+##  Featured Projects
+
+- NHS Hospital Waiting Times Analysis Dashboard
+- NHS Data Quality Analysis
+- NHS A&E Performance Dashboard
+- Traffic Acquisition Analysis
+- Consumer Rating Analysis
+
+##  Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/tajudeen-sulaimon-7a3642189/
+- Portfolio: https://github.com/sulaimonta/tajudeen-data-analyst-portfolio
