@@ -2,7 +2,17 @@
 
 ## About Me
 
-I am an aspiring Data Analyst with skills in Python, SQL, Power BI and Excel. I enjoy analysing data, identifying trends and creating dashboards that communicate insights clearly.
+I’m an aspiring Data Analyst with practical experience using Python, SQL, Power BI and Excel to work with data and turn it into clear, useful insights.
+
+I enjoy working through the full data-analysis process, from cleaning and checking data to analysing results, building dashboards and presenting findings. I use Python and Pandas for data cleaning and analysis, SQL and MySQL to query and explore databases, and Excel for data preparation and analysis. I also use Power BI and DAX to create interactive dashboards that make information easy to understand for both technical and non-technical audiences.
+
+Through my projects, I’ve worked with areas including data quality, healthcare data, business performance and data visualisation. One of my projects involved analysing a 10,000-record synthetic NHS patient dataset using Python, SQL and Power BI. I identified missing information, duplicate records and inconsistent dates, cleaned the data and presented the findings through an interactive Power BI dashboard.
+
+I’m naturally curious and analytical, and I enjoy looking beyond the numbers to understand what they actually mean. I like finding patterns, investigating problems and turning raw data into information that can support better decisions.
+
+I’m also committed to developing my skills and keeping up with new tools and approaches in data analytics. My portfolio reflects my practical experience, continuous learning and interest in using data to solve real-world problems.
+
+Core Skills: Python • Pandas • SQL • MySQL • Power BI • DAX • Excel • Data Cleaning • Data Quality • Data Visualisation • Data Analysis.
 
 ##  Education
 
